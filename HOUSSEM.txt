@@ -1,0 +1,12 @@
+1. how does the web works ? 
+Computers connected to the web are called clients and servers.
+The client requests the server with a language called HTTP "HyperText Transfer Protocol". This is why web page addresses begin with http:// 
+The server respond by sending pages when they are requested by a web browser, such as Google Chrome. 
+
+2. What do you need to be a web developer?
+In the world of web development, languages are the building blocks that programmers use to create websites, apps and software.
+ so you must have some importants skills like the languages and i mean HTML , CSS , JAVASCRIPT .
+
+3. What’s the role of a web developer?
+ A Web Developer must have experience in the planning and the delivery of web applications across multiple platforms. A typical Web Developer job description should cover:
+designing, coding and modifying websites, from layout to function and according to a client's specifications. 
