@@ -1,0 +1,85 @@
+body {
+  background-size: cover;
+    background-image: url(https://cms-assets.tutsplus.com/uploads/users/114/posts/32355/final_image/magazine_mockup_usletter_ls_back_side.jpg);
+}
+  #port {
+    display: inline-block;
+    font-size: 30px;
+    
+     }
+  .menu{
+    display: inline-block;
+    font-size: 20px;
+   margin-left: 400px;
+     }
+  .name {
+    display: inline-block;
+  }
+  li {
+    display: inline;
+    float: right;
+    padding-left: 50px;
+  
+       }
+  
+  li a {
+    display:inline;
+  color: black;
+    text-align:center;
+    padding: 20px;
+    text-decoration: none;
+    margin-right: 30px;
+    }
+  #hoss{
+    color: deeppink;
+    text-align: center;
+    margin-top: 250px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  }
+  p {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+  }
+  #jr { 
+    margin: 200px;
+    text-align: center;
+  }
+.form {
+  margin: 30px;
+}
+.go {
+  margin: 20px;
+}
+.go *{
+  margin: 20px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  outline: none;
+}
+.loc {
+  display: inline-block;
+  margin-top: 50px;
+}
+.para {
+
+  display: inline-block;
+  padding-bottom: 50px;
+  padding-left: 50px;
+ 
+  
+}
+
+.sub {
+  margin-left: 50px;
+}
+#youtube { 
+  text-align: center;width:480px;margin-left:auto;margin-right:auto;margin-bottom:35px;}
+#example {
+  text-decoration: underline;
+  color: brown;
+}
