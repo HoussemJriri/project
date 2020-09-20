@@ -1,0 +1,227 @@
+body {
+    background-color: white;
+    overflow-x: hidden;
+}
+.nav {
+    height: 30%;
+    transition: box-shadow .25s ease 0s;
+
+}
+.nNav {
+    display:flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    justify-content: space-around;
+}
+.ndocplanner {
+    width: 268px;
+    height: 33px;
+}
+
+a {
+   
+    color:gray;
+    text-decoration: none;
+    padding: 10px;
+    
+    
+}
+
+a:hover {
+    fill    :#00B39B;
+
+}
+
+#navbar li {
+    display: inline;
+    text-decoration: none;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+h1 {
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#00B39B !important;
+}
+p{
+    color: grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ncontent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.col-md-6 {
+    padding: 30px;
+}
+.services {
+    display: flex;
+    justify-content: end;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: baseline;
+
+}
+#nforpatients {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #3D83DF;
+    padding: 20px;
+    border-radius: 8px;
+    width: 40%;
+    margin-left: 80px;
+    overflow: hidden;
+    
+    
+}
+#nfordoctors {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #00CCB1;
+    padding: 20px;
+    border-radius: 8px;
+    width: 40%;
+    margin-right: 80px;
+    overflow: hidden;
+    
+}
+h2{
+    color:#00B39B  !important;
+    
+
+}
+h3 {
+    color: #00B39B !important;
+}
+.selectcountry
+{ 
+    margin: 20px;
+    
+}
+#nselect {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+.underimg {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    margin: 30px;
+}
+#first {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 40%;
+    
+    
+}
+.second {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 40%;
+    font-size: 5px;
+    
+    color: #00BFA5;
+    
+}
+.theworld {
+    
+    background-color: #e5faf8;
+    background-size: cover;
+    display: flex;
+    justify-content: space-evenly;
+    height: 500px;
+    
+}
+.together {
+    display: flex;
+}
+
+
+#yes {
+    display: flex;
+    align-items: flex-start;
+    align-content: space-around;
+    text-align: center;
+    padding: 40px;
+    width: 30%;
+    
+    
+       
+   
+    
+     
+    
+    
+}
+#non {
+    
+    padding-top: 50px;
+    width: 30%;
+
+}
+.ok {
+    color:white !important;
+}
+.flag1, .flag2, .flag3, .flag4 {
+    display: flex;
+   align-items: center;
+    flex-direction: column;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+.flag4 {
+    margin-bottom: 50px !important;
+}
+
+    
+
+.ncenter {
+    display: flex;
+    width: 40%;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 30%;
+    margin-top: 50px;
+   
+}
+.ensembleof
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-content: space-around;
+    
+    
+    
+    
+
+}
+
+.theend {
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-top: 50px;
+}
+.card-body {
+    display: flex;
+justify-content: space-evenly;
+margin: 10px;
+}
+.card:hover
+{
+    cursor: pointer;
+    box-shadow: 10px 15px 20px gray;
+    
+}
+#card5, #card6 {
+   
+    margin-top: 30px;
+}
+.btn  {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+    font-size: 12px !important;
+}
+
+    
+   
